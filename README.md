@@ -39,6 +39,9 @@ The Sales Trend Analysis Dashboard is an interactive Power BI project designed t
 ---
 
 ## 📊 Dashboard Insights
+<img width="1277" height="721" alt="image" src="https://github.com/user-attachments/assets/5ab14874-3c80-4bda-b7ae-ee19863c723f" />
+
+
 
 - Identified peak sales periods and seasonal trends.
 - Analyzed revenue and profit performance.
